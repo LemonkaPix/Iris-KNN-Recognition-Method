@@ -44,7 +44,7 @@ Each sample is described by four features:
 
 2. Run the main script:
    ```bash
-   python knn_iris.py
+   python main.py
    ```
 
 ## License
